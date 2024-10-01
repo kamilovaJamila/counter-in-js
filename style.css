@@ -1,0 +1,28 @@
+
+
+.number{
+    text-align: center;
+    font-size: 5em;
+}
+
+.counter{
+    
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+
+}
+
+.btn{
+    padding: 16px 19px;
+    background-color: rgb(48, 57, 54);
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 3rem;
+    cursor: pointer;
+    transition: all .6s;
+}
+.btn:hover{
+    background-color:rgb(45, 93, 78) ;
+}
